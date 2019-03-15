@@ -11,7 +11,7 @@ package layers
 import (
 	"testing"
 
-	"github.com/google/gopacket"
+	"github.com/hatching/gopacket"
 )
 
 func min(a, b int) int {

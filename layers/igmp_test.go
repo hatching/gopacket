@@ -9,7 +9,7 @@ package layers
 import (
 	"testing"
 
-	"github.com/google/gopacket"
+	"github.com/hatching/gopacket"
 )
 
 // igmpv1MembershipReportPacket is the packet:

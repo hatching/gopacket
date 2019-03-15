@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/google/gopacket"
+	"github.com/hatching/gopacket"
 )
 
 // testPacketMPLS

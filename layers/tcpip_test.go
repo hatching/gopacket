@@ -7,7 +7,7 @@
 package layers
 
 import (
-	"github.com/google/gopacket"
+	"github.com/hatching/gopacket"
 	"net"
 	"testing"
 )

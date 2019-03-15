@@ -11,7 +11,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/google/gopacket"
+	"github.com/hatching/gopacket"
 )
 
 type TLSHandshakeType uint8

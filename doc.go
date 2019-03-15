@@ -364,7 +364,7 @@ in a lot of interesting variables/maps (DecodersByLayerName, etc).  Therefore,
 it's recommended that even if you don't use any layers functions directly, you still import with:
 
   import (
-    _ "github.com/google/gopacket/layers"
+    _ "github.com/hatching/gopacket/layers"
   )
 */
 package gopacket
